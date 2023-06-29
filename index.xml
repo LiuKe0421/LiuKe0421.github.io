@@ -16,7 +16,23 @@
       <description>
         
           
-            这是我的第一篇博客内容 
+            这是我的第一篇博客内容 在配置的的过程中，由于前期的设置错误，把我的仓库设置成了private，导致后续的操作无法进行。 解决方案：在GitHub主页选择这个仓库，点击setting里的general设置中找到最下边的Change repository visibility选项，更改设置为public即可解决
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>First2</title>
+      <link>/pasts/ewewwe/</link>
+      <pubDate>Wed, 28 Jun 2023 23:35:20 +0800</pubDate>
+      
+      <guid>/pasts/ewewwe/</guid>
+      <description>
+        
+          
+            这是我的第二篇博客内容 嗡嗡嗡
           
           
         
